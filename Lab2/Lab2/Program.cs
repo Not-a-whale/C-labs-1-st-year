@@ -6,7 +6,7 @@ namespace Lab2
     {
         static void Main(string[] args)
         {
-        Console.Title = "Logger" ;
+            Console.Title = "Logger";
             Console.WriteLine(" Высота буфера {0} строк.", Console.BufferHeight);
             Console.WriteLine(" Ширина {0} колонок.", Console.BufferWidth);
             ConsoleKeyInfo key;
@@ -20,24 +20,24 @@ namespace Lab2
                     case "A":
                         Console.CursorSize = CursorSize[0];
                         Console.SetCursorPosition(10, 20);
-                        Console.WriteLine("Ваш бал:" +bal.ToUpper() + "соответсвует оценке - отлично");
+                        Console.WriteLine("Ваш бал:" + bal.ToUpper() + "соответсвует оценке - отлично");
                         break;
                     case "B":
                         Console.CursorSize = CursorSize[1];
-                        Console.WriteLine("Ваш бал:" +bal.ToUpper() + "соответсвует оценкe - хорошо");
+                        Console.WriteLine("Ваш бал:" + bal.ToUpper() + "соответсвует оценкe - хорошо");
                         break;
                     case "C":
                         Console.SetCursorPosition(10, 20);
                         Console.CursorSize = CursorSize[2];
-                        Console.WriteLine("Ваш бал:" +bal.ToUpper() + "соответсвует оценке - хорошо");
+                        Console.WriteLine("Ваш бал:" + bal.ToUpper() + "соответсвует оценке - хорошо");
                         break;
                     case "D":
                         Console.CursorSize = CursorSize[3];
-                        Console.WriteLine("Ваш бал:" +bal.ToUpper() + "соответсвует оценке - удовлетворительно");
+                        Console.WriteLine("Ваш бал:" + bal.ToUpper() + "соответсвует оценке - удовлетворительно");
                         break;
                     case "E":
                         Console.CursorSize = CursorSize[4];
-                        Console.WriteLine("Ваш бал" +bal.ToUpper() + "соответсвует оценке - удовлетворительно");
+                        Console.WriteLine("Ваш бал" + bal.ToUpper() + "соответсвует оценке - удовлетворительно");
                         break;
                     default:
                         Console.WriteLine("Неправильно введен бал");

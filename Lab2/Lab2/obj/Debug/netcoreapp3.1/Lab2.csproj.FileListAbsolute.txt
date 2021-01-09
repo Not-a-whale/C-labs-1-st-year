@@ -1,26 +1,13 @@
-C:\Users\nikitochka\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
-C:\Users\nikitochka\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
-C:\Users\nikitochka\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
-C:\Users\nikitochka\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
-C:\Users\nikitochka\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
-C:\Users\nikitochka\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
-C:\Users\nikitochka\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
-C:\Users\nikitochka\source\repos\C-labs-1-st-year\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
