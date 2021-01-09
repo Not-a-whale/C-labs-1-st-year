@@ -1,0 +1,13 @@
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.exe
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.deps.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.runtimeconfig.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.runtimeconfig.dev.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.dll
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.csprojAssemblyReference.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.AssemblyInfoInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.AssemblyInfo.cs
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.dll
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\Lab4.03\Lab4\Lab4_2\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.genruntimeconfig.cache
