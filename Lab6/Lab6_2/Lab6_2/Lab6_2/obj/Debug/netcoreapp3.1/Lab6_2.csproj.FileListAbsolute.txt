@@ -1,0 +1,13 @@
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\bin\Debug\netcoreapp3.1\Lab6_2.exe
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\bin\Debug\netcoreapp3.1\Lab6_2.deps.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\bin\Debug\netcoreapp3.1\Lab6_2.runtimeconfig.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\bin\Debug\netcoreapp3.1\Lab6_2.runtimeconfig.dev.json
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\bin\Debug\netcoreapp3.1\Lab6_2.dll
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\bin\Debug\netcoreapp3.1\Lab6_2.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.csprojAssemblyReference.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.AssemblyInfoInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.AssemblyInfo.cs
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.dll
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab6\Lab6_2\Lab6_2\Lab6_2\obj\Debug\netcoreapp3.1\Lab6_2.genruntimeconfig.cache
