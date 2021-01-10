@@ -9,3 +9,14 @@ C:\Users\nikitochka\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInpu
 C:\Users\nikitochka\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
 C:\Users\nikitochka\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
 C:\Users\nikitochka\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Никиточка\Desktop\Labs C#\Nikita Labs\C-labs-1-st-year\Lab1\Lab1\obj\Debug\Lab1.pdb
