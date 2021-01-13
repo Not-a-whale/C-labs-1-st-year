@@ -1,0 +1,15 @@
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.exe
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.deps.json
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.runtimeconfig.json
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.runtimeconfig.dev.json
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.dll
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\bin\Debug\netcoreapp3.1\Lab7_1.pdb
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.csprojAssemblyReference.cache
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.Form1.resources
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.csproj.GenerateResource.cache
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.AssemblyInfoInputs.cache
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.AssemblyInfo.cs
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.csproj.CoreCompileInputs.cache
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.dll
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.pdb
+C:\Users\Никиточка\source\repos\Lab7_1\Lab7_1\obj\Debug\netcoreapp3.1\Lab7_1.genruntimeconfig.cache
